@@ -1,0 +1,15 @@
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\bin\Debug\net6.0\AdventOfCode_2022.exe
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\bin\Debug\net6.0\AdventOfCode_2022.deps.json
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\bin\Debug\net6.0\AdventOfCode_2022.runtimeconfig.json
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\bin\Debug\net6.0\AdventOfCode_2022.dll
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\bin\Debug\net6.0\AdventOfCode_2022.pdb
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.vbproj.AssemblyReference.cache
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.AssemblyInfoInputs.cache
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.AssemblyInfo.vb
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.vbproj.CoreCompileInputs.cache
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.dll
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\refint\AdventOfCode_2022.dll
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.pdb
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\AdventOfCode_2022.genruntimeconfig.cache
+D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\obj\Debug\net6.0\ref\AdventOfCode_2022.dll

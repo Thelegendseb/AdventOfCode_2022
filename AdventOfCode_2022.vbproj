@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>AdventOfCode_2022</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <StartupObject>AdventOfCode_2022.Solution_Part1</StartupObject>
+  </PropertyGroup>
+
+</Project>
