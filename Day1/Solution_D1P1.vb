@@ -1,10 +1,10 @@
-﻿Module Solution_Part2
+﻿Module Solution_D1P1
 
     Sub Main()
 
-        Dim currentCount As Integer = 0
+        Dim highestFound As Integer = 0
 
-        Dim CalorieSums As New List(Of Integer)
+        Dim currentCount As Integer = 0
 
         FileOpen(1, "D:\Users\sebcl\Documents\AdventOfCode2022\AOC2022_VS\AdventOfCode_2022\Day1\data.txt", OpenMode.Input)
 
@@ -14,7 +14,11 @@
 
             If CalorieForItem_str = "" Then
 
-                CalorieSums.Add(currentCount)
+                If currentCount > highestFound Then
+
+                    highestFound = currentCount
+
+                End If
 
                 currentCount = 0
 
@@ -30,11 +34,7 @@
 
         FileClose(1)
 
-        CalorieSums.Sort()
-
-        CalorieSums.Reverse()
-
-        Console.WriteLine(CalorieSums.GetRange(0, 3).Sum())
+        Console.WriteLine(highestFound)
 
         Console.ReadLine()
 
