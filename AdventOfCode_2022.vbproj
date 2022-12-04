@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>AdventOfCode_2022</RootNamespace>
     <TargetFramework>net6.0</TargetFramework>
-    <StartupObject>AdventOfCode_2022.Solution_D3P1</StartupObject>
+    <StartupObject>AdventOfCode_2022.Solution_D4P1</StartupObject>
   </PropertyGroup>
 
 </Project>
